@@ -19,7 +19,7 @@
             "outputFile": "C:\\Users\\Usuario\\Documents\\GitHub\\BlocksGit\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-v18\\values-v18.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\16e3760f61d103a3373e5215ad893d4a\\res\\values-v18\\values-v18.xml",
+                    "source": "C:\\Users\\Usuario\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.1.0.aar\\626b86b27881252087ac030fda9534aa\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
